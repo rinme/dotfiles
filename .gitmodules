@@ -1,0 +1,3 @@
+[submodule "i3wm-themer"]
+	path = i3wm-themer
+	url = https://github.com/stav121/i3wm-themer.git
