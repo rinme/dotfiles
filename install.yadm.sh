@@ -10,8 +10,8 @@ while true; do
 Please Select:
 
 1. Arch Linux (btw)
-2. Ubuntu/Debian
-3. Others Unix alike
+2. Ubuntu/Debian (Config only for now)
+3. Others Unix alike (Config only)
 0. Quit
 
 _EOF_
@@ -22,6 +22,7 @@ _EOF_
     case $REPLY in
       1)
         echo "Archlinux installation"
+        sudo pacman -Sy fcitx5 fish i3-wm i3blocks i3lock i3status ibus neovim rofi
         sudo pacman -Sy yadm
         sleep $DELAY
         yadm init
