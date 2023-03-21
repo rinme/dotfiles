@@ -1,0 +1,366 @@
+{
+    "settings": {
+        "notifyAboutUpdates": true,
+        "autoUpdate": false,
+        "autoUpdateNotification": true,
+        "useQuickCss": true,
+        "themeLinks": [],
+        "enableReactDevtools": true,
+        "frameless": false,
+        "transparent": false,
+        "winCtrlQ": false,
+        "winNativeTitleBar": false,
+        "plugins": {
+            "MessageEventsAPI": {
+                "enabled": true
+            },
+            "CommandsAPI": {
+                "enabled": true
+            },
+            "MenuItemDeobfuscatorAPI": {
+                "enabled": true
+            },
+            "ContextMenuAPI": {
+                "enabled": true
+            },
+            "MessagePopoverAPI": {
+                "enabled": true
+            },
+            "MessageAccessoriesAPI": {
+                "enabled": true
+            },
+            "MessageDecorationsAPI": {
+                "enabled": true
+            },
+            "MemberListDecoratorsAPI": {
+                "enabled": true
+            },
+            "ServerListAPI": {
+                "enabled": true
+            },
+            "AlwaysTrust": {
+                "enabled": false
+            },
+            "AnonymiseFileNames": {
+                "enabled": true,
+                "method": 0,
+                "randomisedLength": 7
+            },
+            "BANger": {
+                "enabled": false
+            },
+            "BetterGifAltText": {
+                "enabled": false
+            },
+            "BetterNotesBox": {
+                "enabled": false
+            },
+            "BetterRoleDot": {
+                "enabled": false
+            },
+            "BetterUploadButton": {
+                "enabled": false
+            },
+            "BlurNSFW": {
+                "enabled": false
+            },
+            "CallTimer": {
+                "enabled": false
+            },
+            "ColorSighted": {
+                "enabled": false
+            },
+            "CrashHandler": {
+                "enabled": true,
+                "attemptToPreventCrashes": true,
+                "attemptToNavigateToHome": false
+            },
+            "DisableDMCallIdle": {
+                "enabled": false
+            },
+            "EmoteCloner": {
+                "enabled": true
+            },
+            "Experiments": {
+                "enabled": false,
+                "enableIsStaff": false,
+                "forceStagingBanner": false
+            },
+            "FakeNitro": {
+                "enabled": true,
+                "enableEmojiBypass": true,
+                "enableStickerBypass": true,
+                "enableStreamQualityBypass": true,
+                "emojiSize": 48,
+                "stickerSize": 160
+            },
+            "FixInbox": {
+                "enabled": false
+            },
+            "ForceOwnerCrown": {
+                "enabled": false
+            },
+            "iLoveSpam": {
+                "enabled": false
+            },
+            "IgnoreActivities": {
+                "enabled": false
+            },
+            "InvisibleChat": {
+                "enabled": false
+            },
+            "LoadingQuotes": {
+                "enabled": false
+            },
+            "MemberCount": {
+                "enabled": false
+            },
+            "MessageLinkEmbeds": {
+                "enabled": false
+            },
+            "MessageLogger": {
+                "enabled": true,
+                "deleteStyle": "text",
+                "ignoreBots": true,
+                "ignoreSelf": true
+            },
+            "MuteNewGuild": {
+                "enabled": true
+            },
+            "NoBlockedMessages": {
+                "enabled": false
+            },
+            "NoDevtoolsWarning": {
+                "enabled": false
+            },
+            "NoF1": {
+                "enabled": false
+            },
+            "NoRPC": {
+                "enabled": false
+            },
+            "NoReplyMention": {
+                "enabled": false
+            },
+            "NoScreensharePreview": {
+                "enabled": false
+            },
+            "NoSystemBadge": {
+                "enabled": false
+            },
+            "NoUnblockToJump": {
+                "enabled": false
+            },
+            "NSFWGateBypass": {
+                "enabled": false
+            },
+            "PlainFolderIcon": {
+                "enabled": false
+            },
+            "PlatformIndicators": {
+                "enabled": false
+            },
+            "PronounDB": {
+                "enabled": false,
+                "pronounsFormat": "LOWERCASE",
+                "showSelf": true
+            },
+            "RevealAllSpoilers": {
+                "enabled": false
+            },
+            "ReverseImageSearch": {
+                "enabled": false
+            },
+            "richerCider": {
+                "enabled": false
+            },
+            "RoleColorEverywhere": {
+                "enabled": false
+            },
+            "ShikiCodeblocks": {
+                "enabled": true,
+                "theme": "https://raw.githubusercontent.com/shikijs/shiki/0b28ad8ccfbf2615f2d9d38ea8255416b8ac3043/packages/shiki/themes/dracula-soft.json",
+                "tryHljs": "SECONDARY",
+                "useDevIcon": "GREYSCALE",
+                "bgOpacity": 100
+            },
+            "ShowHiddenChannels": {
+                "enabled": false
+            },
+            "SilentMessageToggle": {
+                "enabled": false
+            },
+            "SilentTyping": {
+                "enabled": false
+            },
+            "SortFriendRequests": {
+                "enabled": false
+            },
+            "SpotifyControls": {
+                "enabled": false
+            },
+            "SpotifyCrack": {
+                "enabled": true,
+                "noSpotifyAutoPause": true,
+                "keepSpotifyActivityOnIdle": false
+            },
+            "StartupTimings": {
+                "enabled": false
+            },
+            "TimeBarAllActivities": {
+                "enabled": false
+            },
+            "TypingIndicator": {
+                "enabled": false
+            },
+            "TypingTweaks": {
+                "enabled": false,
+                "showAvatars": true,
+                "showRoleColors": true,
+                "alternativeFormatting": true
+            },
+            "Unindent": {
+                "enabled": false
+            },
+            "ReactErrorDecoder": {
+                "enabled": false
+            },
+            "VoiceChatDoubleClick": {
+                "enabled": false
+            },
+            "ViewIcons": {
+                "enabled": false
+            },
+            "VolumeBooster": {
+                "enabled": false
+            },
+            "Webhook Tags": {
+                "enabled": false
+            },
+            "WhoReacted": {
+                "enabled": true
+            },
+            "Settings": {
+                "enabled": true,
+                "settingsLocation": "top"
+            },
+            "ClearURLs": {
+                "enabled": false
+            },
+            "ConsoleShortcuts": {
+                "enabled": false
+            },
+            "CorruptMp4s": {
+                "enabled": true
+            },
+            "CustomRPC": {
+                "enabled": false,
+                "type": 0
+            },
+            "UrbanDictionary": {
+                "enabled": false
+            },
+            "F8Break": {
+                "enabled": false
+            },
+            "Fart2": {
+                "enabled": false
+            },
+            "FriendInvites": {
+                "enabled": false
+            },
+            "FxTwitter": {
+                "enabled": true
+            },
+            "HideAttachments": {
+                "enabled": false
+            },
+            "KeepCurrentChannel": {
+                "enabled": false
+            },
+            "LastFMRichPresence": {
+                "enabled": false,
+                "hideWithSpotify": true,
+                "useListeningStatus": false
+            },
+            "MessageClickActions": {
+                "enabled": false
+            },
+            "MessageTags": {
+                "enabled": false
+            },
+            "MoreCommands": {
+                "enabled": true
+            },
+            "MoreKaomoji": {
+                "enabled": true
+            },
+            "Moyai": {
+                "enabled": true,
+                "volume": 0.5,
+                "triggerWhenUnfocused": true,
+                "ignoreBots": true
+            },
+            "NoCanaryMessageLinks": {
+                "enabled": false
+            },
+            "oneko": {
+                "enabled": true
+            },
+            "petpet": {
+                "enabled": true
+            },
+            "QuickMention": {
+                "enabled": false
+            },
+            "QuickReply": {
+                "enabled": false
+            },
+            "ReadAllNotificationsButton": {
+                "enabled": false
+            },
+            "ServerListIndicators": {
+                "enabled": false
+            },
+            "SpotifyShareCommands": {
+                "enabled": false
+            },
+            "UwUifier": {
+                "enabled": false
+            },
+            "VcNarrator": {
+                "enabled": false,
+                "volume": 1,
+                "rate": 1,
+                "joinMessage": "{{USER}} joined",
+                "leaveMessage": "{{USER}} left",
+                "moveMessage": "{{USER}} moved to {{CHANNEL}}",
+                "muteMessage": "{{USER}} Muted",
+                "unmuteMessage": "{{USER}} unmuted",
+                "deafenMessage": "{{USER}} deafened",
+                "undeafenMessage": "{{USER}} undeafened"
+            },
+            "ViewRaw": {
+                "enabled": false
+            },
+            "BadgeAPI": {
+                "enabled": true
+            },
+            "NoticesAPI": {
+                "enabled": true
+            },
+            "NoTrack": {
+                "enabled": true
+            },
+            "SupportHelper": {
+                "enabled": true
+            }
+        },
+        "notifications": {
+            "timeout": 5000,
+            "position": "bottom-right",
+            "useNative": "not-focused"
+        }
+    },
+    "quickCss": "/**\n * @name CreArts v3 \n * @version 3.0.3\n * @author CorellanStoma#1996\n * @authorLink https://github.com/CorellanStoma\n * @description CreArts is a customizable Discord theme that changes the appearance of Discord.\n * @source https://github.com/CreArts-Community/CreArts-Discord\n * @invite 8w8e39z\n*/\n\n/* ╔════════════════════════════════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ Discord Theme                                                                                                      ║ */\n/* ╠══════════════════════════╦═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Name:                    ║ CreArts v3                                                                              ║ */\n/* ║ Version:                 ║ 3.0.2                                                                                   ║ */\n/* ║ Author:                  ║ CorellanStoma#1996                                                                      ║ */\n/* ║ License:                 ║ MIT                                                                                     ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║                                                                                                                    ║ */\n/* ║ CreArts is a theme for Discord that gives you a new modern interface and adds at the same time many                ║ */\n/* ║ possibilities to be customized, one of the core features are Skins, which allow you to customize the appearance    ║ */\n/* ║ with Variables.                                                                                                    ║ */\n/* ║                                                                                                                    ║ */\n/* ║ The goal of this Discord theme is to wrap the standard Discord charm in a new visual idea.                         ║ */\n/* ║                                                                                                                    ║ */\n/* ║ To enable or disable certain things, you can comment lines. Use \"/* \" in front.                                    ║ */\n/* ║                                                                                                                    ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ✅ Enabled by Default\n/* ⭕ Disabled by Default\n/* 🧪 Experimental\n/* ⚠️ Must be loaded\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.0 Styles               ║ Appearance                                                                              ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Select another Style, you can combine them as you wish.                                                            ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* 🧪 Neumorphism (WIP) (works best with default settings) */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/styles/neumorphism.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.1 Palette              ║ Discord                                                                                 ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Select another Palette, only one should be enabled at a time.                                                      ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ⭕ Modern Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/modern.css\"); /**/\n\n/* ⭕ Blurple Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css\"); /**/\n\n/* ⭕ Revamp Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.1 Palette              ║ CreArts                         ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Community Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css\"); /**/\n\n/* ⭕ Ruby Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/ruby.css\"); /**/\n\n/* ⭕ Emerald Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/emerald.css\"); /**/\n\n/* ⭕ Sapphire Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/sapphire.css\"); /**/\n\n/* ⭕ Amethyst Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/amethyst.css\"); /**/\n\n/* ⭕ Crimson Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/crimson.css\"); /**/\n\n/* ⭕ Jungle Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/jungle.css\"); /**/\n\n/* ⭕ Hive Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/hive.css\"); /**/\n\n/* ⭕ Coffee Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/coffee.css\"); /**/\n\n/* ⭕ Sandstorm Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/sandstorm.css\"); /**/\n\n/* ⭕ Lux Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/lux.css\"); /**/\n\n/* ⭕ Charcoal Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/charcoal.css\"); /**/\n\n/* ⭕ Milkshake Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.1 Palette              ║ Community                       ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Nebula Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/community/nebula.css\"); /**/\n\n/* ⭕ Lavender Edition */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/community/lavender.css\"); /**/\n\n/* ⭕ Goon Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/community/goon.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.1 Palette              ║ Games                           ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ The Legend of Zelda */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/games/zelda.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.1 Palette              ║ Public                          ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Spotify Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/spotify.css\"); /**/\n\n/* ⭕ Twitch Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/twitch.css\"); /**/\n\n/* ⭕ Guilded Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/guilded.css\"); /**/\n\n/* ⭕ Revolt Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/revolt.css\"); /**/\n\n/* ⭕ Dracula Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/dracula.css\"); /**/\n\n/* ⭕ Nord Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/nord.css\"); /**/\n\n/* ⭕ Solarized Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/solarized.css\"); /**/\n\n/* ⭕ Yaru Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/yaru.css\"); /**/\n\n/* ⭕ Gruvbox Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/gruvbox.css\"); /**/\n\n/* ⭕ Primer Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/primer.css\"); /**/\n\n/* ⭕ Arc Edition */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/palette/public/arc.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.2 Shape                ║ Wide                                                                                    ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Select another shape, only one should be active.                                                                   ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ⭕ Wide Square */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/square.css\"); /**/\n\n/* ⭕ Wide Round */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.2 Shape                ║ Slim                            ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Slim Squircle */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css\"); /**/\n\n/* ⭕ Slim Square */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/square.css\"); /**/\n\n/* ⭕ Slim Round */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/round.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.3 Alignment            ║ Left                                                                                    ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Choose another alignment only one should be selected.                                                              ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ✅ Combined */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css\"); /**/\n\n/* ⭕ Divided */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/divided.css\"); /**/\n\n/* ⭕ Buttons */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/buttons.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.3 Alignment            ║ Right                           ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Default */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/default.css\"); /**/\n\n/* ⭕ Combined */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/combined.css\"); /**/\n\n/* ⭕ Divided */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/divided.css\"); /**/\n\n/* ⭕ Buttons */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/right/buttons.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.3 Alignment            ║ Top                             ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Default */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css\"); /**/\n\n/* ⭕ Buttons */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════╗ */\n/* ║ 1.3 Alignment            ║ Bottom                          ║ */\n/* ╚══════════════════════════╩═════════════════════════════════╝ */\n\n/* ⭕ Default */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/default.css\"); /**/\n\n/* ⭕ Buttons */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/buttons.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.4 Add-ons              ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Enable or disable these addons, you can combine them as you wish.                                                  ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ✅ Friends-Grid */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/addons/friends-grid.css\"); /**/\n\n/* ✅ Context-Icons */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/addons/context-icons.css\"); /**/\n\n/* ✅ Settings-Icons */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/addons/settings-icons.css\"); /**/\n\n/* ✅ Mention-Links */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/addons/mention-links.css\"); /**/\n\n/* ✅ Discolored (by Nyria#3863) */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/addons/discolored.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.5 Replace              ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Replace some elements, you can combine them as you wish.                                                           ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ✅ Replace Fonts */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/replace/fonts.css\"); /**/\n\n/* ✅ Replace Dash */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/replace/dash.css\"); /**/\n\n/* ✅ Replace Edited */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/replace/edited.css\"); /**/\n\n/* ✅ Replace Icons */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/replace/icons.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.6 Move                 ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Move some elements, you can combine them as you wish.                                                              ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ⭕ Move Explore Button down. (Working with: Default & Buttons; Not Working with: Combined & Divided) */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/move/button/explore.css\"); /**/\n\n/* ⭕ Move Add Server Button down. (Working with: Default & Buttons; Not Working with: Combined & Divided) */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/move/button/add.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.7 Remove               ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Remove some elements, you can combine them as you wish.                                                            ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ✅ Remove Help Button */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/help.css\"); /**/\n\n/* ✅ Remove Download Button (Web) */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/download.css\"); /**/\n\n/* ⭕ Remove Explore Button (Working with: Default & Buttons; Not Working with: Combined & Divided) */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/explore.css\"); /**/\n\n/* ⭕ Remove Add Server Button (Working with: Default & Buttons; Not Working with: Combined & Divided) */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/add.css\"); /**/\n\n/* ✅ Remove Gift Button */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/gift.css\"); /**/\n\n/* ✅ Remove Sticker Button */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/sticker.css\"); /**/\n\n/* ✅ Remove GIF Button */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/button/gif.css\"); /**/\n\n/* ⭕ Remove Stream Popout */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/stream-popout.css\"); /**/\n\n/* ⭕ Remove Developer Options Menu */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/developer-options.css\"); /**/\n\n/* ⭕ Remove Dismissible Contents Menu */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/dismissible-contents.css\"); /**/\n\n/* ⭕ Remove Hotspot Options Menu */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/hotspot-options.css\"); /**/\n\n/* ⭕ Remove HypeSquad Menu */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/hypesquad.css\"); /**/\n\n/* ⭕ Remove Remove Payment Flow Modals */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/payment-flow-modals.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.8 Animations           ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Enable or Disable these optional Animations, you can combine them as you wish.                                     ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ⭕ Adds Hover Animation */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/animations/hover.css\"); /**/\n\n/* ⭕ Adds Chat-Input Animation */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/animations/chat-input.css\"); /**/\n\n/* ⭕ Adds Sidebar Animation */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/animations/channels-sidebar.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 1.9 Privacy              ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Enable or Disable these optional Privacy modules, you can combine them as you wish.                                ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ⭕ No Tag */\n/*@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/privacy/user-tag.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ 2.0 Custom               ║                                                                                         ║ */\n/* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */\n/* ║ Enable or Disable these optional Custom modules, you can combine them as you wish.                                 ║ */\n/* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ✅ Tags */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/custom/tags.css\"); /**/\n\n/* ✅ Server */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/custom/server.css\"); /**/\n\n/* ✅ User */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/modules/custom/user.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ Source                   ║ Do not comment out these lines! By disabling the theme can not work correctly.          ║ */\n/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* ⚠️ Source Files (This loads the compiled source css file.) */\n@import url(\"https://crearts-community.github.io/CreArts-Discord/src/source.css\"); /**/\n\n/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */\n/* ║ Testing                  ║ Custom CSS code is tested in the lower section.                                         ║ */\n/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */\n\n/* Settings Background */\n.contentRegionScroller-2_GT_N {\n  background: var(--background-secondary);\n}\n\n/* No Voice Users (Panel) */\n/*.voiceUsers-3gPcwY {\n/*  display: none;\n/*}\n\n/* Remove Background Modifier element */\n.option-ayUoaq:after {\n  display: none;\n}\n\n.communityInfoPill-2Mll66 {\n  display: none;\n}"
+}
